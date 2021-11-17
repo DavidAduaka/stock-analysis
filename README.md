@@ -1,2 +1,4 @@
 # stock-analysis
-Stock analysis using VBA 
+# VBA of Wall Street: Challenge 2
+
+
