@@ -7,5 +7,5 @@ Steve wanted to prepare a macro-enabled workbook that analyzes the performance o
 ## Purpose
 Steve worries the orignal workbook and code may not be able to handle calculations for thousands of stocks in a timely manner. So, the purpose of this project is to refactor the code to make it run faster.
 
-# 2017
+### 2017
 
